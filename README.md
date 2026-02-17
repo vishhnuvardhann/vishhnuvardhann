@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨🏻‍💻 About Me:
 🔭 Currently working on: Machine Learning and Data Science projects using Python<br>👯 Looking to collaborate on: ML, data analysis, and open-source Python projects<br>🌱 Currently learning: Machine Learning, feature engineering, and model deployment<br>💬 Ask me about: Python, Machine Learning basics, and data analysis<br>⚡ Goal: Become a Machine Learning Engineer through real-world projects<br>
 
 
